@@ -48,7 +48,7 @@ The US is divided into multiple regions by NOAA based on their location. Further
 * IEC 61724 is a series of standards that define parameters for monitoring the performance of photovoltaic (PV) systems
 * Irradiance is the radiometry term for the power per unit area of electromagnetic radiation incident on a surface. The SI unit for irradiance is watts per square meter [W/m2], or milli watts per square milli metre [mW/mm2].
 
-# Libraries used
+### Libraries used:
 * Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 * NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
 * Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
